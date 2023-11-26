@@ -1,0 +1,145 @@
+Western entrance,College of Science,76.22
+Western entrance,The clinic,155.78
+Western entrance,N.Shaheen,201.18
+Western entrance,Al-Juraysi,271.66
+Western entrance,O.AbedAllhadi,314.29
+Western entrance,Library,189.38
+Western entrance,Stores,83.80
+Western entrance,Service Center,119.88
+Western entrance,shooting range,233.26
+Western entrance,Back stadium,343.34
+College of Science,Western entrance,76.22
+College of Science,The clinic,79.55
+College of Science,N.Shaheen,125.12
+College of Science,Al-Juraysi,195.81
+College of Science,O.AbedAllhadi,238.41
+College of Science,Library,114.78
+Al-Juraysi,Library,84.10
+Al-Juraysi,O.AbedAllhadi,42.62
+Al-Juraysi,N.Shaheen,70.90
+Al-Juraysi,Western entrance,271.66
+O.AbedAllhadi,Library,126.31
+O.AbedAllhadi,N.Shaheen,113.40
+O.AbedAllhadi,Western entrance,314.29
+O.AbedAllhadi,College of Science,238.41
+Stores,Service Center,39.96
+Stores,shooting range,165.37
+Stores,Back stadium,276.95
+Stores,Akkad Building,95.94
+Service Center,shooting range,126.72
+Service Center,Back stadium,237.97
+Service Center,Akkad Building,95.54
+shooting range,Back stadium,111.66
+shooting range,Arts Building,187.67
+shooting range,GYM,96.59
+shooting range,Student Council,103.47
+shooting range,Akkad Building,151.36
+Back stadium,Arts Building,93.10
+Back stadium,GYM,127.24
+Back stadium,Student Council,182.30
+Back stadium,Akkad Building,252.91
+Arts Building,Pharmacy,94.40
+Arts Building,Masrouji,124.74
+Arts Building,Khoury,143.61
+Arts Building,Bahrani,107.93
+Arts Building,A.Shaheen,123.24
+Pharmacy,Palestine Museum,116.33
+Pharmacy,Eastern entrance,142.80
+Pharmacy,IT,130.33
+Pharmacy,Anjad Zaneni,128.35
+Pharmacy,Masrouji,53.41
+Pharmacy,Khoury,94.57
+Pharmacy,Bahrani,91.24
+Pharmacy,A.Shaheen,148.18
+Eastern entrance,Palestine Museum,112.62
+Eastern entrance,IT,42.39
+Eastern entrance,Anjad Zaneni,86.12
+Eastern entrance,Masrouji,120.64
+Eastern entrance,Khoury,139.37
+Eastern entrance,Bahrani,177.73
+Eastern entrance,A.Shaheen,240.53
+Eastern entrance,Pharmacy,142.81
+Eastern entrance,Bamieh,164.121
+Eastern entrance,Shaheen Stage,34.79
+Palestine Museum,IT,137.24
+Palestine Museum,Shaheen Stage,85.62
+Palestine Museum,Pharmacy,116.33
+Palestine Museum,Eastern entrance,112.62
+Shaheen Stage,IT,51.95
+Shaheen Stage,Eastern entrance,34.79
+Shaheen Stage,Anjad Zaneni,88.28
+Shaheen Stage,Palestine Museum,85.62
+IT,Palestine Museum,137.23
+IT,Anjad Zaneni,43.78
+IT,Bamieh,122.15
+IT,Alsadik,202.90
+IT,Book Store,245.23
+IT,Pharmacy,130.33
+IT,Shaheen Stage,51.95
+IT,A.Shaheen,204.73
+IT,Masrouji,94.32
+IT,Khoury,102.70
+IT,Bahrani,144.48
+Anjad Zaneni,Bamieh,78.68
+Anjad Zaneni,Alsadik,159.99
+Anjad Zaneni,Book Store,202.74
+Anjad Zaneni,Tower,138.87
+Bamieh,Alsadik,81.78
+Bamieh,Book Store,124.99
+Bamieh,Tower,80.37
+Bamieh,Presidency building,136.15
+Alsadik,Book Store,43.41
+Alsadik,Tower,89.70
+Alsadik,IOL,109.15
+Alsadik,Students Affairs,92.69
+Book Store,Students Affairs,50.25
+Book Store,IOL,73.43848068450095
+Book Store,Kamal Nasser Street,106.82
+Book Store,Student Council,87.10
+Students Affairs,IOL,36.40
+Students Affairs,Kamal Nasser Street,68.77
+Students Affairs,Student Council,58.71
+Students Affairs,Registration building,74.97
+Students Affairs,Kamal Nasser,83.10
+IOL,Kamal Nasser Street,34.02
+IOL,Kamal Nasser,56.72
+IOL,Registration building,56.24
+IOL,Finance Road Intersection,96.69
+Kamal Nasser Street,Kamal Nasser,32.22
+Kamal Nasser Street,Registration building,42.55
+Kamal Nasser Street,Finance Road Intersection,94.57
+Kamal Nasser Street,Finance Building,90.24
+Kamal Nasser Street,Library,53.70
+Kamal Nasser,Registration building,18.49
+Kamal Nasser,Finance Road Intersection,70.42
+Kamal Nasser,Finance Building,60.93
+Kamal Nasser,Library,59.35
+Kamal Nasser,Akkad Building,83.74
+Registration building,Finance Building,47.89
+Registration building,Finance Road Intersection,53.32
+Finance Building,Akkad Building,33.15
+Finance Building,WKS,73.62
+Akkad Building,WKS,46.55
+Akkad Building,GYM,153.61
+Akkad Building,Student Council,83.87
+WKS,Student Council,39.23
+WKS,GYM,162.75
+WKS,A.Shaheen,107.62
+Student Council,GYM,70.15
+Student Council,A.Shaheen,123.48
+Student Council,Bahrani,187.71
+GYM,A.Shaheen,62.18
+GYM,Bahrani,125.91
+GYM,Khoury,164.14
+A.Shaheen,Bahrani,64.68
+A.Shaheen,Khoury,102.03
+A.Shaheen,Masrouji,126.53
+Bahrani,Khoury,44.84
+Bahrani,Masrouji,61.87
+Bahrani,Pharmacy,91.24
+Khoury,Masrouji,44.28
+Khoury,Pharmacy,94.57
+Khoury,IT,102.70
+Masrouji,Pharmacy,53.41
+Masrouji,IT,94.32
+Masrouji,Anjad Zaneni,79.63
