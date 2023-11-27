@@ -12,6 +12,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Line;
 import javafx.scene.shape.Polyline;
+import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
 import java.io.File;
@@ -186,7 +187,9 @@ public class HelloApplication extends Application {
             choiceBox.setValue(null);
             choiceBox2.setValue(null);
 
-            file = new File(" ");
+            FileChooser fileChooser = new FileChooser();
+            fileChooser.setTitle("Open Resource File");
+             file = fileChooser.showOpenDialog(stage);
             if (file != null) {
                 try {
                     dijkstra.read(file);
